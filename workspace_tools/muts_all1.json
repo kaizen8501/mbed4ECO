@@ -1,0 +1,7 @@
+{
+    "1" : {"mcu": "WIZWIKI_W7500ECO",
+        "port":"COM63",
+        "disk":"J:\\",
+        "peripherals": []
+    }
+}
